@@ -8,7 +8,7 @@ This repository hosts the official implementation of the paper:
 We use the KMU-FED dataset for training and evaluation.
 You can find the dataset here: KMU-FED Dataset
 
-![KMU-FED](https://raw.githubusercontent.com/username/repo-name/branch-name/images/kmu-fed.png)
+![KMU-FED](https://raw.githubusercontent.com/username/repo-name/branch-name/images/kmu-fed.jpg)
 
 
 
