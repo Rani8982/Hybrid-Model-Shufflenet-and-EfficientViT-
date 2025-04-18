@@ -6,9 +6,8 @@ This repository hosts the official implementation of the paper:
 **Dataset**
 <br>
 We use the KMU-FED dataset for training and evaluation.
-You can find the dataset here: KMU-FED Dataset
-
-![KMU-FED](https://raw.githubusercontent.com/username/repo-name/branch-name/images/kmu-fed.jpg)
+You can find the dataset here: [KMU-FED Dataset](https://cvpr.kmu.ac.kr/KMU-FED.html)  
+![KMU-FED](https://user-images.githubusercontent.com/12345678/abcdefg-kmu-fed.jpg)
 
 
 
