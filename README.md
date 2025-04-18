@@ -4,10 +4,11 @@ This repository hosts the official implementation of the paper:
 "Shuffle Vision Transformer: Lightweight, Fast, and Efficient Recognition of Driver Facial Expressions."
 
 **Dataset**
-<>br
+<br>
 We use the KMU-FED dataset for training and evaluation.
 You can find the dataset here: KMU-FED Dataset
-![KMU-FED](kmu-fed.png)
+![KMU-FED](https://user-images.githubusercontent.com/12345678/KMU-FED.png)
+
 
 
 The dataset is preprocessed and saved in .h5 format using the script:
