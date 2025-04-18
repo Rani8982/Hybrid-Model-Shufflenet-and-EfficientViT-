@@ -1,4 +1,4 @@
-**Shuffle Vision Transformer**
+**Shuffle Vision Transformer for Driver Emotion Recognition**
 This repository hosts the official implementation of the paper:
 "Shuffle Vision Transformer: Lightweight, Fast, and Efficient Recognition of Driver Facial Expressions."
 
